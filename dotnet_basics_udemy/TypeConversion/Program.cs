@@ -25,7 +25,7 @@ namespace ConsoleApplication
             // prevents the application for crashing
             try
             {
-                var number = "1234";
+                string number = "254";
                 byte b = Convert.ToByte(number);
                 System.Console.WriteLine("The Number is: {0}", b);
             }
@@ -34,6 +34,9 @@ namespace ConsoleApplication
                 System.Console.WriteLine("The Number could not be converted to a byte...");
                 throw;
             }
+
+            string interpol = $"The answer to 7 + 5 is {7 + 5}";
+            System.Console.WriteLine(interpol);
         }
     }
 }
