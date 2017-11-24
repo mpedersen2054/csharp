@@ -1,5 +1,5 @@
---temp-output:/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/obj/Debug/netcoreapp1.0/
---out:/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/bin/Debug/netcoreapp1.0/HelloWorld.dll
+--temp-output:/Users/mattpp/dv/csharp_stuff/04_Arrays/obj/Debug/netcoreapp1.0/
+--out:/Users/mattpp/dv/csharp_stuff/04_Arrays/bin/Debug/netcoreapp1.0/04_Arrays.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:HelloWorld
+--output-name:04_Arrays
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:/Users/mattpp/.nuget/packages/System.Threading.Timer/4.0.1/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/Users/mattpp/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/Users/mattpp/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll
-/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/Program.cs
+/Users/mattpp/dv/csharp_stuff/04_Arrays/Program.cs

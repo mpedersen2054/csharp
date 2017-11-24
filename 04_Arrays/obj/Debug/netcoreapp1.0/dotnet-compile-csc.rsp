@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
--out:"/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/bin/Debug/netcoreapp1.0/HelloWorld.dll"
+"/Users/mattpp/dv/csharp_stuff/04_Arrays/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
+-out:"/Users/mattpp/dv/csharp_stuff/04_Arrays/bin/Debug/netcoreapp1.0/04_Arrays.dll"
 -r:"/Users/mattpp/.nuget/packages/Microsoft.CSharp/4.0.1/ref/netstandard1.0/Microsoft.CSharp.dll"
 -r:"/Users/mattpp/.nuget/packages/Microsoft.VisualBasic/10.0.1/ref/netstandard1.1/Microsoft.VisualBasic.dll"
 -r:"/Users/mattpp/.nuget/packages/Microsoft.Win32.Primitives/4.0.1/ref/netstandard1.3/Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"/Users/mattpp/.nuget/packages/System.Threading.Timer/4.0.1/ref/netstandard1.2/System.Threading.Timer.dll"
 -r:"/Users/mattpp/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/Users/mattpp/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll"
-"/Users/mattpp/dv/csharp_stuff/dotnet_basics_udemy/HelloWorld/Program.cs"
+"/Users/mattpp/dv/csharp_stuff/04_Arrays/Program.cs"
