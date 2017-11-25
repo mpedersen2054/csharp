@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>survey</title>
+    <link rel="stylesheet" href="~/stylesheets/main.css">
+</head>
+<body>
+    <div class="container">
+        <fieldset>
+            <legend>Results: </legend>
+            Name: <div class="item">@ViewBag.Name</div>
+            Location: <div class="item">@ViewBag.Location</div>
+            Language: <div class="item">@ViewBag.Language</div>
+            Comment: <div class="item">@ViewBag.Comment</div>
+
+            <a href="/">Go back</a>
+        </fieldset>
+    </div>
+</body>
+</html>

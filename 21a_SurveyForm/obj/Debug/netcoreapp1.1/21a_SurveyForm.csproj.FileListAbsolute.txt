@@ -1,0 +1,8 @@
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/bin/Debug/netcoreapp1.1/21a_SurveyForm.deps.json
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/bin/Debug/netcoreapp1.1/21a_SurveyForm.runtimeconfig.json
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/bin/Debug/netcoreapp1.1/21a_SurveyForm.runtimeconfig.dev.json
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/bin/Debug/netcoreapp1.1/21a_SurveyForm.dll
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/bin/Debug/netcoreapp1.1/21a_SurveyForm.pdb
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/obj/Debug/netcoreapp1.1/21a_SurveyForm.AssemblyInfo.cs
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/obj/Debug/netcoreapp1.1/21a_SurveyForm.dll
+/Users/mattpp/dv/csharp_stuff/21a_SurveyForm/obj/Debug/netcoreapp1.1/21a_SurveyForm.pdb

@@ -1,0 +1,23 @@
+
+.container {
+    width: 420px;
+    margin: 100px auto;
+}
+
+input, select, textarea, .item {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, select {
+    width: 160px;
+}
+
+legend {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.item {
+    font-size: 22px;
+}
