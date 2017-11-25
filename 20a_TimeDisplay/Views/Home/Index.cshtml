@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Time display</title>
+    <style>
+        .container {
+            width: 420px;
+            margin: 200px auto;
+            text-align: center;
+        }
+        .small-container {
+            width: 380px;
+            margin: 0 auto;
+            border: 1px solid #999;
+            padding: 40px;
+        }
+        .date-str {
+            font-size: 26px;
+        }
+        .time-str {
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>The current time and date:</h2>
+        <div class="small-container">
+            <div class="date-str">@ViewData["DateStr"]</div>
+            <div class="time-str">@ViewData["TimeStr"]</div>
+        </div>
+    </div>
+</body>
+</html>

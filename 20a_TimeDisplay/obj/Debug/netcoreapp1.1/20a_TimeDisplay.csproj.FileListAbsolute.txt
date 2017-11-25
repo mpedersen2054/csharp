@@ -1,0 +1,8 @@
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/bin/Debug/netcoreapp1.1/20a_TimeDisplay.deps.json
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/bin/Debug/netcoreapp1.1/20a_TimeDisplay.runtimeconfig.json
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/bin/Debug/netcoreapp1.1/20a_TimeDisplay.runtimeconfig.dev.json
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/bin/Debug/netcoreapp1.1/20a_TimeDisplay.dll
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/bin/Debug/netcoreapp1.1/20a_TimeDisplay.pdb
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/obj/Debug/netcoreapp1.1/20a_TimeDisplay.AssemblyInfo.cs
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/obj/Debug/netcoreapp1.1/20a_TimeDisplay.dll
+/Users/mattpp/dv/csharp_stuff/20a_TimeDisplay/obj/Debug/netcoreapp1.1/20a_TimeDisplay.pdb
