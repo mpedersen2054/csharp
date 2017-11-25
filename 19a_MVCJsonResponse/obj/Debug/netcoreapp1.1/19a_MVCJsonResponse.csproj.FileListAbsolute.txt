@@ -1,0 +1,8 @@
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/bin/Debug/netcoreapp1.1/19a_MVCJsonResponse.deps.json
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/bin/Debug/netcoreapp1.1/19a_MVCJsonResponse.runtimeconfig.json
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/bin/Debug/netcoreapp1.1/19a_MVCJsonResponse.runtimeconfig.dev.json
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/bin/Debug/netcoreapp1.1/19a_MVCJsonResponse.dll
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/bin/Debug/netcoreapp1.1/19a_MVCJsonResponse.pdb
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/obj/Debug/netcoreapp1.1/19a_MVCJsonResponse.AssemblyInfo.cs
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/obj/Debug/netcoreapp1.1/19a_MVCJsonResponse.dll
+/Users/mattpp/dv/csharp_stuff/19a_MVCJsonResponse/obj/Debug/netcoreapp1.1/19a_MVCJsonResponse.pdb
