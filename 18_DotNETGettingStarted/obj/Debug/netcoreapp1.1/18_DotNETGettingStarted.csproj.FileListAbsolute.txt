@@ -1,0 +1,8 @@
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/bin/Debug/netcoreapp1.1/18_DotNETGettingStarted.deps.json
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/bin/Debug/netcoreapp1.1/18_DotNETGettingStarted.runtimeconfig.json
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/bin/Debug/netcoreapp1.1/18_DotNETGettingStarted.runtimeconfig.dev.json
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/bin/Debug/netcoreapp1.1/18_DotNETGettingStarted.dll
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/bin/Debug/netcoreapp1.1/18_DotNETGettingStarted.pdb
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/obj/Debug/netcoreapp1.1/18_DotNETGettingStarted.AssemblyInfo.cs
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/obj/Debug/netcoreapp1.1/18_DotNETGettingStarted.dll
+/Users/mattpp/dv/csharp_stuff/18_DotNETGettingStarted/obj/Debug/netcoreapp1.1/18_DotNETGettingStarted.pdb
