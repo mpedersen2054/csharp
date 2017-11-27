@@ -1,0 +1,8 @@
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/bin/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.deps.json
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/bin/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.runtimeconfig.json
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/bin/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.runtimeconfig.dev.json
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/bin/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.dll
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/bin/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.pdb
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/obj/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.AssemblyInfo.cs
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/obj/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.dll
+/Users/mattpp/dv/csharp_stuff/22a_RandomPasscodeGenerator/obj/Debug/netcoreapp1.1/22a_RandomPasscodeGenerator.pdb

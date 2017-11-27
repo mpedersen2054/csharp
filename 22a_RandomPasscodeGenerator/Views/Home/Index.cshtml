@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>random passcode</title>
+    <style>
+        .container {
+            width: 420px;
+            margin: 160px auto;
+            text-align: center;
+            padding: 20px 40px;
+            border: 1px solid #999;
+        }
+        .title {
+            font-size: 20px;
+        }
+        .passcode {
+            padding: 10px;
+            border: 1px solid #aaa;
+            font-size: 24px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            Random passcode ( passcode # <span>@ViewData["Attempts"]</span> )
+        </div>
+        <div class="passcode">
+            @ViewData["Passcode"]
+        </div>
+        <div class="btn">
+            <a href="/generate_new">Generate</a>
+        </div>
+    </div>
+</body>
+</html>
